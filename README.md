@@ -1,1 +1,1 @@
-# codility
+# Codility's Python Attempt
